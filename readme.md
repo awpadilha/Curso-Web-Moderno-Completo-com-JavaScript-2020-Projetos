@@ -1,8 +1,6 @@
 <h1 align="center">
     Curso Web Moderno Completo com JavaScript 2020 + Projetos  <br>
     
-    EXEMPLOS AULAS
-    
 </h1>
 
 ## :rocket: Tecnologias
