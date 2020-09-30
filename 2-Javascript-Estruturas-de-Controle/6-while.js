@@ -10,4 +10,4 @@ while (opcao != -1) {
     console.log(`Opção esolhida foi ${opcao}.`)
 }
 
-console.log('Até a próxima!')
+console.log('Até a próxima!') 
