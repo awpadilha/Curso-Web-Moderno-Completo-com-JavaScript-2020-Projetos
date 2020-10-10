@@ -21,7 +21,7 @@ function run(fun) {
     fun()
 }
 
-run(function) () { console.log('Executando...')}
+run(function () { console.log('Executando...')} )
 
 //Um função pode retornar/conter um função
 function soma(a, b) {
